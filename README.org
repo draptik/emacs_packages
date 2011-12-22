@@ -1,0 +1,29 @@
+* README
+  GNU/Emacs package collection.
+  This is a collection of Emacs packages not included with default Emacs.
+* IMPORTANT: Usage/Installation
+  Most packages are included as git submodules.
+  To load all submodules run the following commands from this directory
+
+  git submodule init
+
+  git submodule update
+
+  Also note that other included packages might use the same mechanisms.
+  So, for Rinari (Ruby-on-Rails support) you must
+
+  cd rinari
+  git submodule init
+  git submodule update
+  
+* Maintenance of Git Submodules
+** Adding Git Submodules
+   For details see http://book.git-scm.com/5_submodules.html
+   
+   git submodule add http://github.com/nex3/haml.git
+   git submodule add git://repo.or.cz/org-mode.git
+   git submodule add  http://github.com/pezra/rspec-mode.git
+   git submodule add git://github.com/nex3/ert.git
+   git submodule add git://github.com/eschulte/jump.el.git
+   git submodule add git://github.com/eschulte/rinari.git
+   git submodule add https://github.com/rejeep/ruby-end.git

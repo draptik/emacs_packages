@@ -1,0 +1,11 @@
+# Can ignore specific files
+.DS_Store
+
+# Use wildcards as well
+*~
+*.swp
+.emacs.desktop
+
+
+## Submodule files to ignore
+etc/schema/xhtml-loader.rnc

@@ -1,0 +1,21 @@
+[submodule "haml"]
+	path = haml
+	url = http://github.com/nex3/haml.git
+[submodule "org-mode"]
+	path = org-mode
+	url = git://repo.or.cz/org-mode.git
+[submodule "rspec-mode"]
+	path = rspec-mode
+	url = http://github.com/pezra/rspec-mode.git
+[submodule "ert"]
+	path = ert
+	url = git://github.com/nex3/ert.git
+[submodule "jump.el"]
+	path = jump.el
+	url = git://github.com/eschulte/jump.el.git
+[submodule "rinari"]
+	path = rinari
+	url = git://github.com/eschulte/rinari.git
+[submodule "ruby-end"]
+	path = ruby-end
+	url = https://github.com/rejeep/ruby-end.git
