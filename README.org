@@ -3,18 +3,12 @@
   This is a collection of Emacs packages not included with default Emacs.
 * IMPORTANT: Usage/Installation
   Most packages are included as git submodules.
-  To load all submodules run the following commands from this directory
+  To load all submodules run the following command(s) from this directory
 
-  git submodule init
+  git clone <origin> --recursive <optional-destination>
 
-  git submodule update
+  NOTE: "--recursive" is the important part!
 
-  Also note that other included packages might use the same mechanisms.
-  So, for Rinari (Ruby-on-Rails support) you must
-
-  cd rinari
-  git submodule init
-  git submodule update
   
 * Maintenance of Git Submodules
 ** Adding Git Submodules
