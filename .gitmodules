@@ -13,9 +13,6 @@
 [submodule "jump.el"]
 	path = jump.el
 	url = git://github.com/eschulte/jump.el.git
-[submodule "rinari"]
-	path = rinari
-	url = git://github.com/eschulte/rinari.git
 [submodule "ruby-end"]
 	path = ruby-end
 	url = https://github.com/rejeep/ruby-end.git
