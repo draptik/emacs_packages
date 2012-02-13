@@ -4,9 +4,6 @@
 [submodule "org-mode"]
 	path = org-mode
 	url = git://repo.or.cz/org-mode.git
-[submodule "rspec-mode"]
-	path = rspec-mode
-	url = http://github.com/pezra/rspec-mode.git
 [submodule "jump.el"]
 	path = jump.el
 	url = git://github.com/eschulte/jump.el.git
