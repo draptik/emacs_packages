@@ -1,3 +1,5 @@
+* SORRY THIS REPO CURRENTLY DOES NOT WORK
+
 * README
   GNU/Emacs package collection.
   This is a collection of Emacs packages not included with default Emacs.
